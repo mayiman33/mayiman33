@@ -1,30 +1,138 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ma Yiman
+Hi 👋 My name is Ma Yiman
 ================================================================================================================================
 
-I’m a UTM software engineering student
----------------------------------------
+<h3 align="center">Software Engineering Student | Full-Stack Developer | AI & Backend Enthusiast</h3>
 
-* 🌍  I'm based in China.
-* ✉️  You can contact me at [mayiman@graduate.utm.my](mailto:mayiman@graduate.utm.my)
-* 🧠  I'm learning software engineering.
-* 🤝  I'm open to collaborating on anything.
-* ⚡  I'm a person of strong execution.
-
-### Skills
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+<p align="center">
+🎓 Universiti Teknologi Malaysia (UTM) <br>
+💻 Full-Stack Development • Backend Engineering • Artificial Intelligence <br>
+📍 Kuala Lumpur, Malaysia
 </p>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/mayiman33" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
-### Badges
+### About Me
 
-<b>My GitHub Stats</b>
+I am a Software Engineering student at Universiti Teknologi Malaysia (UTM) with a CGPA of **3.73**.
 
-<a href="http://www.github.com/mayiman33"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mayiman33&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+I enjoy building full-stack applications, backend systems, and AI-powered solutions. My experience includes web development, mobile applications, deep learning, NLP, and database systems.
 
-<b>Top Repositories</b>
+- 🌍 Based in Kuala Lumpur, Malaysia
+- 🎓 Bachelor of Computer Science (Software Engineering)
+- 📧 Email: mayiman@graduate.utm.my
+- 🧠 Interested in AI Engineering, Backend Development, and Software Architecture
+- 🚀 Currently exploring Deep Learning, NLP, and Cloud Technologies
 
-<div width="100%" align="center"><a href="https://github.com/mayiman33/Assignments" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mayiman33&repo=Assignments&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+---
+
+### Tech Stack
+
+#### Frontend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,html,css,tailwind" />
+</p>
+
+#### Backend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,java" />
+</p>
+
+#### Database
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase" />
+</p>
+
+#### AI / Data Science
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
+
+#### Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,supabase" />
+</p>
+
+---
+
+### Featured Projects
+
+#### 🌐 MJL PartnerLink System
+**Next.js + Supabase**
+
+- Academic collaboration management platform
+- Authentication and role management
+- CRUD operations and dashboard analytics
+
+---
+
+#### 🧪 Lab Experiment Preparation System
+**Spring Boot + Supabase**
+
+- Laboratory booking and scheduling system
+- Inventory management
+- Workflow automation with RBAC
+
+---
+
+#### 📚 Librarium System
+**Node.js + Express + PostgreSQL**
+
+- Library management system
+- Borrowing and return workflows
+- MVC architecture and REST APIs
+
+---
+
+#### 🗺️ Malaysia Travel App
+**Flutter + Firebase**
+
+- Mobile tourism application
+- Interactive maps and attraction discovery
+- Search and filtering functions
+
+---
+
+#### 🌧️ Rainfall Prediction System
+**Python + Deep Learning**
+
+- Radar-based rainfall nowcasting
+- Optical Flow motion estimation
+- UNet + ConvLSTM spatiotemporal prediction
+
+---
+
+#### 🤖 AI Incident Routing System
+**Next.js + OpenAI API**
+
+- AI-powered ticket classification
+- NLP-based routing automation
+- Intelligent workflow processing
+
+---
+
+### GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mayiman33&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayiman33&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mayiman33&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+### Current Focus
+
+```text
+🔭 Full-Stack Development
+🌧️ AI-Based Rainfall Prediction
+🤖 Artificial Intelligence Applications
+📱 Mobile App Development
+☁️ Cloud & Backend Systems
